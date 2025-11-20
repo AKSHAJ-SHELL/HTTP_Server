@@ -1,0 +1,67 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+images/
+*.png
+*.jpg
+*.jpeg
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# S3 Dataset downloads
+s3_dataset/
+downloaded_images/
+
+# Drone server directories
+metadata/
+logs/
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# AWS CLI
+.aws/
+
+# Dataset files (TIFF images from S3)
+*.tiff
+*.tif
+
+# Logs
+logs/
+*.log
