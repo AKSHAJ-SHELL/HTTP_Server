@@ -1,0 +1,18 @@
+{
+  "original_filename": "image2.jpg",
+  "stored_filename": "20251119_213941_597.jpg",
+  "upload_timestamp": "2025-11-19T21:39:41.598176",
+  "flight_id": null,
+  "gps": {
+    "latitude": null,
+    "longitude": null
+  },
+  "altitude": null,
+  "camera_settings": null,
+  "notes": null,
+  "file_size": 1305,
+  "content_type": "image/jpeg",
+  "server_timestamp": "2025-11-19T21:39:41.598523",
+  "image_path": "C:\\Users\\vijay\\AppData\\Local\\Temp\\tmp2g6imd4o\\2025-11-19\\flight_20251119_213941\\20251119_213941_597.jpg",
+  "metadata_file": "metadata\\2025-11-19\\flight_20251119_213941\\20251119_213941_597.json"
+}
