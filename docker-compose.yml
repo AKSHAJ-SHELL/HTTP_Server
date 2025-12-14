@@ -1,0 +1,15 @@
+services:
+  image-server:
+    build: .
+    container_name: image-server
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./images:/app/images
+      - ./metadata:/app/metadata
+      - ./logs:/app/logs
+      - ./server.py:/app/server.py
+    restart: always
+    environment:
+      - PYTHONUNBUFFERED=1
+
